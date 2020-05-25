@@ -23,3 +23,4 @@ def position_taken?(board, index)
 end
 
 valid_move?(number_entered, ttt_board)
+end
